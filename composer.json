@@ -25,7 +25,7 @@
   "require": {
     "php": ">=8.2",
     "ext-intl": "*",
-    "damienharper/auditor": "dev-master#9415eacc7dca67975a7eae5c8f93cf4e82e49932",
+    "damienharper/auditor": "dev-master#579c5eb9ffe9cae42f968511fcaa43626f891b2b",
     "doctrine/doctrine-bundle": "^2.0",
     "symfony/asset": "^5.4|^6.4|^7.0",
     "symfony/doctrine-bridge": "^5.4|^6.4|^7.0",
