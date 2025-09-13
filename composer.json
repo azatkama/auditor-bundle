@@ -16,10 +16,16 @@
       "email": "damien.harper@gmail.com"
     }
   ],
+  "repositories": {
+    "damienharper/auditor": {
+      "type": "vcs",
+      "url": "https://github.com/azatkama/auditor"
+    }
+  },
   "require": {
     "php": ">=8.2",
     "ext-intl": "*",
-    "damienharper/auditor": "^3.2",
+    "damienharper/auditor": "dev-master#9f138c7f63d5c16025ab31796a5fe93fa7e2c95d",
     "doctrine/doctrine-bundle": "^2.0",
     "symfony/asset": "^5.4|^6.4|^7.0",
     "symfony/doctrine-bridge": "^5.4|^6.4|^7.0",
